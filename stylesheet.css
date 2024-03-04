@@ -1,0 +1,13 @@
+  .heading {
+                padding: 60px;
+                font-size: 25px;
+                text-align: center;
+                background: deepskyblue;
+            }
+           
+ 
+  .section {
+               background-color: dodgerblue;
+               padding: 20px;
+               margin-top: 3
+            }
